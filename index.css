@@ -1,0 +1,47 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+}
+
+#counterh1 {
+    color: antiquewhite;
+    text-align: center;
+    margin-top: 50px;
+    width: auto;
+    font-size: 80px;
+}
+
+#countel {
+    color: antiquewhite;
+    font-size: 40px;
+    text-align: center;
+}
+
+#style {
+    text-align: center;
+}
+
+#incrementbtn {
+    text-align: center;
+    display: inline-block;
+    font-size: 30px;
+}
+
+#decrementbtn {
+    text-align: center;
+    display: inline-block;
+    font-size: 30px;
+}
+
+#savebtn {
+    text-align: center;
+    margin: auto;
+    display: grid;
+    font-size: 30px;
+}
+
+#saveel {
+    text-align: center;
+    color: azure;
+    font-size: 25px;
+}
